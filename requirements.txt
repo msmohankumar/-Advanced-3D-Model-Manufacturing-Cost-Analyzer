@@ -16,3 +16,9 @@ tqdm>=4.0
 
 # For formatted table output in the console
 rich>=10.0
+
+streamlit
+trimesh
+pandas
+plotly
+numpy
